@@ -29,7 +29,7 @@ Coming soon...
 * LinkedIn: [Desai Sudhakar](YOUR_LINKEDIN_URL)
 * GitHub: [sudhakardesai77](https://github.com/sudhakardesai77)
 * Email: [sudhakardesai77@gmail.com](mailto:sudhakardesai77@gmail.com)
-## Hi there 👋
+
 
 <!--
 **sudhakardesai77/sudhakardesai77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
