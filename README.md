@@ -1,3 +1,34 @@
+# Hi, I'm Sudhakar 👋
+
+🎓 B.Tech Computer Science and Engineering Student at VIT-AP
+
+💻 Interested in Software Engineering, Java, Data Structures & Algorithms, and Backend Development.
+
+### 🚀 About Me
+
+* 🎓 Currently pursuing B.Tech in Computer Science and Engineering
+* 💻 Currently focusing on **Java and Data Structures & Algorithms**
+* 🌱 Learning and improving my software development skills
+* 🔨 Interested in building practical, real-world projects
+* 🎯 Preparing for software engineering opportunities
+
+### 🛠️ Technologies & Skills
+
+* **Languages:** Java, Python, JavaScript
+* **Core:** Data Structures & Algorithms, OOP
+* **Web:** HTML, CSS, React.js, Node.js
+* **Database:** SQL, MongoDB
+* **Tools:** Git, GitHub
+
+### 📌 Featured Projects
+
+Coming soon...
+
+### 📫 Connect With Me
+
+* LinkedIn: [Desai Sudhakar](YOUR_LINKEDIN_URL)
+* GitHub: [sudhakardesai77](https://github.com/sudhakardesai77)
+* Email: [sudhakardesai77@gmail.com](mailto:sudhakardesai77@gmail.com)
 ## Hi there 👋
 
 <!--
